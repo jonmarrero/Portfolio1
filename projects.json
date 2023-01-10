@@ -1,0 +1,12 @@
+[
+    {
+      "name": "project1",
+      "git": "https://github.com/jonmarrero/Project-1-",
+      "image": "https://bndlstech.com/wp-content/uploads/2021/08/rick-morty-while-high-blog-header-3804x964-@2x-1200x900-cropped.png"
+    },
+    {
+      "name": "Animal-App",
+      "git": "https://github.com/jonmarrero/Animal-App",
+      "image": "https://nationalzoo.si.edu/sites/default/files/animals/cheetah-003.jpg"
+    }
+  ]
